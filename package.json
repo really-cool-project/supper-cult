@@ -12,5 +12,18 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "This is our platform to allow underground supper clubs flourish and imbue communities with mystery and art.  🚀 🍗 🧀 🥞 🌮 🌯 🍲 🍙",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/really-cool-project/supper-cult.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/really-cool-project/supper-cult/issues"
+  },
+  "homepage": "https://github.com/really-cool-project/supper-cult#readme"
 }
