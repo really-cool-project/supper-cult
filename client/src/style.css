@@ -1,0 +1,53 @@
+.applyComponent {
+    margin-top: 4.0em;
+    max-width: 70vw;
+    margin: auto; 
+    font-family: 'Raleway', sans-serif;   
+    color: #484848 !important;
+}
+
+.applyTitle {
+    margin-top: 4.0em;
+    margin-bottom: 0;
+    font-size: 3rem;
+}
+
+.applyDescription {
+    font-size: 1rem;
+    font-weight: none;
+}
+
+.applySubmit {
+    display: block;
+    margin-top: 1rem;
+}
+
+.applyTextarea::placeholder {
+    font-size: 1rem;
+    opacity: 1;
+    font-weight: 100;
+}
+
+.applyTextarea {
+    font-size: 1rem;
+    color: #484848 !important;
+    padding: 1vh .5vw;
+}
+
+.applyTextarea:placeholder-shown {
+    font-size: 1rem;
+}
+
+.applyTextarea:focus {
+    outline: none !important;
+    border: 1px solid #008489 !important;
+}
+
+.applySubmit {
+    font-size: 1em;
+    color: #484848 !important;
+    background-color: transparent;
+    border: none;
+    margin-top: 2em;
+    margin-left: 33.7em;
+}
